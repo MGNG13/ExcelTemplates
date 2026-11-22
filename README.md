@@ -173,10 +173,10 @@ Debajo, el código listo para copiar en 8 variantes.
 Requisitos: **Node.js 18+** (probado con Node 25) y un navegador moderno. No hace falta tener Excel instalado.
 
 ```bash
-git clone https://github.com/<tu-usuario>/excel-template-builder.git
+git clone https://github.com/MGNG13/ExcelTemplates.git
 cd excel-template-builder
 npm install
-npm start            # http://localhost:3001
+npm start
 ```
 
 | Comando | Qué hace |
