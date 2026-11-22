@@ -1,0 +1,33 @@
+{
+    "fontAwesomeIcon": "fas fa-file-excel",
+    "delayExecutionMS": 0,
+    "excludedUsernames": [
+        "externo"
+    ],
+    "appColorCSS": "rgb(33, 115, 70)",
+    "allowedRoles": [
+        "administrador",
+        "escritura",
+        "lectura",
+        "actualizacion",
+        "eliminacion"
+    ],
+    "allowedDepartments": [
+        "direccion general",
+        "administracion",
+        "contabilidad",
+        "sistemas",
+        "ventas",
+        "produccion",
+        "diseno",
+        "costos",
+        "logistica",
+        "mesa control",
+        "proyecto nacional pintura",
+        "mantenimiento preventivo",
+        "mantenimiento correctivo",
+        "compras",
+        "recursos humanos",
+        "almacen"
+    ]
+}
